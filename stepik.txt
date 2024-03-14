@@ -1,4 +1,0 @@
-{"key":"value"}
-commit test 1
-commit test 2
-3line
